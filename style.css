@@ -1,0 +1,53 @@
+h2{
+color: yellow;  
+background-color: darkblue;
+text-align: center;
+font-size: 35px;
+
+border: solid;
+border-style: outset;
+border-color: darkred;
+
+padding: 25px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-right: 10px;
+padding-left: 10px;
+font-style: bold;
+
+
+}
+h1{
+  color: yellow;  
+background-color: darkblue;
+text-align: center;
+font-size: 35px;
+
+border: solid;
+border-style: outset;
+border-color: darkred;
+
+padding: 25px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-right: 10px;
+padding-left: 10px;
+font-style: bold;
+
+  
+  
+}
+p{
+ color: black;
+ background-color: yellow;
+ text-justify: center;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ border: solid;
+ border-color: red;
+ 
+ 
+}
+
+  
+  
